@@ -38,8 +38,7 @@ El objetivo del proyecto es transformar datos deportivos en información visual 
 6. Análisis del rendimiento del Recreativo de Huelva.
 
 ## Vista previa del dashboard
-
-Aquí se mostrarán capturas del dashboard.
+![Vista previa del dashboard](screenshots/01_resumen_general.png)
 
 ## Aprendizajes
 
